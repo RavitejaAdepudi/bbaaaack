@@ -2,6 +2,11 @@ hi Emmanuel
 nursary
 
 
-added]]
+<<<<<<< Updated upstream
+added
+
 
 i am adding changes 
+
+addedgain
+
