@@ -1,11 +1,9 @@
  hello i hi Emmanuel
 nursary
 
-
-<<<<<<< Updated upstream
 added
 
-
+emmanuel is goiung to nursary 
 i am adding changes 
 
 addedgain
