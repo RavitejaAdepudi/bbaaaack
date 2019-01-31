@@ -5,6 +5,7 @@
  friday i am on leave  hi Emmanuel
 nursary
 
+<<<<<<< HEAD
 added
 
 emmanuel is goiung to nursary 
@@ -14,3 +15,9 @@ addedgain
 
  he has got new friend 
  hi Emmanue  emmanuel
+=======
+
+added]]
+
+i am adding changes 
+>>>>>>> parent of f683841... manuel
