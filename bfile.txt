@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 bdhgshfgdhfdghghfdghfghdfgjsdhgsdhgjsdhjs hi bfie
 =======
+<<<<<<< HEAD
 bdhgshfgdhfdghghfdghfghdfgjsdhgsdhgjsdhjsh
 
 
@@ -11,3 +12,6 @@ chnaging the bfile
 
 
 
+=======
+bdhgshfgdhfdghghfdghfghdfgjsdhgsdhgjs
+>>>>>>> fdbfd0e5778ea5af5c63d290769997fe70d33b4c
